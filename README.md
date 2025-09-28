@@ -2,11 +2,7 @@
 Credit Card Default Prediction
 📌 Project Overview
 
-
 This project predicts whether a credit card holder will default on their payment in the next month using machine learning models. It uses customer financial data and applies both Logistic Regression and Random Forest Classifier to evaluate credit risk.
-
-
-
 🚀 Technologies Used
 Python
 
