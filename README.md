@@ -9,11 +9,6 @@ Python
 
 Pandas – Data handling
 Scikit-learn – Machine Learning (Logistic Regression, Random Forest, Train/Test split, Scaling, Evaluation)
-🔑 Features
-
-**Load and preprocess dataset (credit_card_default.csv).
-
-**Train and evaluate Logistic Regression and Random Forest models.
 
 Generate classification reports, confusion matrix, and ROC-AUC scores.
 Make predictions for individual customers.
